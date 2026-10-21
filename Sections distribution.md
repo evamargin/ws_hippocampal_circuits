@@ -1,9 +1,15 @@
 
 ## Wk 2
 
-**Homework:** skim both reviews, they bare quite short. Check your section questions and try to answer them. Questions are just helpers so you can add / remove them if you think there is a better way to explain what you have read
+**Homework:** Everyone reads van Strien 2009 in full and Hernández-Frausto 2024 sections 2–4 (skip 5–6, aging and exercise). Pages are journal pages for 2009 and article pages for 2024.
 
-Everyone reads van Strien 2009 in full and Hernández-Frausto 2024 sections 2–4 (skip 5–6, aging and exercise). Pages are journal pages for 2009 and article pages for 2024.
+random assigmnment:
+'B': 'Sotiris', 
+'C': 'Nandini', 
+'D': 'Arman', 
+'E': 'Pablo', 
+'F': 'Emma', 
+'G': 'Stefanie'
 
 | Who | van Strien 2009 | Hernández-Frausto 2024 | Focus questions |
 | --- | --- | --- | --- |

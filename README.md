@@ -3,8 +3,8 @@
 ## Schedule
 
 - Weekly, 2h
-- Wed from 13:00 to 15:00?
-- Format: in person B01.051 or online?
+- Wed from 15:15 to 17:15
+- Format: in person B01.051 or online
 
 **WS**
 - Start: `12.10.2026`
