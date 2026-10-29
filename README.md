@@ -3,7 +3,7 @@
 ## Schedule
 
 - Weekly, 2h
-- Wed from 15:15 to 17:00, hard stop
+- Wed from 15:15 to 17:00
 - Format: in person B01.051 or online
 
 **WS**
@@ -16,11 +16,11 @@
 
 - **Before each class:**
 	- The core review is split into sections, one per person. See `Sections distribution.md`.
-	- The additional paper is optional. Eva summarises it in class in 8 minutes.
+	- The additional paper is optional. Eva might summarise it in class.
 - **At home:**
 	- Read the whole core review, your section with more care.
 	- Two sets of questions in `Sections distribution.md`: a curiosity guide for everyone, three questions on your section for you. Bring answers, not slides.
-	- Questions about other sections are welcome. Note them, bring them.
+	- Questions about other sections are welcome.
 - **In the class:**
 	- Framing, 10 min: Eva gives the map and why this paper.
 	- One slot per section: 8 min, the presenter explains in their own words from the paper, uninterrupted. Then 4 min of questions and discussion. Key ideas, key figures.

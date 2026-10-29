@@ -1,10 +1,18 @@
 ## Wk 3
 
-**Homework:** Everyone reads Farrell & Soltesz 2025, *Noncanonical circuits, states, and computations of the hippocampus*, Science 389:eadv4420, in full: 7 article pages, 4 figures, 3 boxes. Page numbers below are PDF pages. Müller & Remy 2018, *Septo–hippocampal interaction*, is optional; Eva summarises it in class from its Fig. 2.
+**Homework:** 
+- Everyone reads Farrell & Soltesz 2025, *Noncanonical circuits, states, and computations of the hippocampus*, Science 389:eadv4420
+	- Page numbers below are PDF pages. 
+- Müller & Remy 2018, *Septo–hippocampal interaction*, is optional
 
-**How the class runs:** 8 minutes per section, uninterrupted, then 4 minutes of discussion. A timekeeper is named at the start and rotates weekly. We stop at 17:00. Closing round: one question from the guide below, one sentence each.
+**Lets try the following approach:** 
+- you explain the section in 8 minutes uninterrupted 
+- then 4 minutes of comments, questions and discussion
+- then next person
+- We try to stop at 17:00. 
+- Closing round 10 min: open discussion, possibly guided by **curiosity questions** below but not neccessarily 
 
-**Curiosity guide, everyone, whole paper.** Read with these in mind; each should be answerable in one sentence after class.
+**Curiosity questions**: (no need to prepare answers, just to frame you)
 
 1. Before reading: what do you think the hippocampus does while the animal stands still? After reading: did the paper move you?
 2. The authors call the ignored LFP epochs "junk DNA". Where is the comparison fair, where does it break?
@@ -12,17 +20,17 @@
 4. Two kinds of basket cell on the same pyramidal cell body. Why would a circuit keep two?
 5. One claim you do not believe yet. What would convince you?
 
-| Slot | Who | Section | Pages | Figures, boxes |
-| --- | --- | --- | --- | --- |
-| 0 | **Eva** | Review summary, Introduction, Conclusions; Müller & Remy 2018 in 8 min | 1–2, 7 | summary figure |
-| 1 | **Arman** | Orphans of the trisynaptic circuit | 2–3 | Fig. 2A–C |
-| 2 | **Stefanie** | Hypothalamic innervation of orphan PCs | 3–4 | Fig. 2D–F |
-| 3 | **Nandini** | Hippocampal dynamics beyond theta and ripple states | 4 | Fig. 1, Box 1 (p. 3), Box 2 (p. 5) |
-| 4 | **Emma** | SIA, first half: n/ramping cells, BARRs, CA2 → CCK basket cells. Up to "Throughout the hippocampus, there are only two…" | 5 | Fig. 3B, D |
-| 5 | **Sotiris** | SIA, second half: PV vs CCK basket cells, Box 3, Npas4 and Fos | 5–6 | Fig. 3A, C, Box 3 (p. 6) |
-| 6 | **Pablo** | Dentate spikes during LIA | 6–7 | Fig. 4 |
+| Slot | Who          | Section                                                                                                                  | Pages  | Figures, boxes                     |
+| ---- | ------------ | ------------------------------------------------------------------------------------------------------------------------ | ------ | ---------------------------------- |
+| 0    | **Eva**      | Review summary, Introduction, Conclusions; Müller & Remy 2018 in 8 min                                                   | 1–2, 7 | summary figure                     |
+| 1    | **Arman**    | Orphans of the trisynaptic circuit                                                                                       | 2–3    | Fig. 2A–C                          |
+| 2    | **Stefanie** | Hypothalamic innervation of orphan PCs                                                                                   | 3–4    | Fig. 2D–F                          |
+| 3    | **Nandini**  | Hippocampal dynamics beyond theta and ripple states                                                                      | 4      | Fig. 1, Box 1 (p. 3), Box 2 (p. 5) |
+| 4    | **Emma**     | SIA, first half: n/ramping cells, BARRs, CA2 → CCK basket cells. Up to "Throughout the hippocampus, there are only two…" | 5      | Fig. 3B, D                         |
+| 5    | **Sotiris**  | SIA, second half: PV vs CCK basket cells, Box 3, Npas4 and Fos                                                           | 5–6    | Fig. 3A, C, Box 3 (p. 6)           |
+| 6    | **Pablo**    | Dentate spikes during LIA                                                                                                | 6–7    | Fig. 4                             |
 
-**Section questions.** Three each. Bring answers in your own words; the figure is your slide.
+**Section questions.**
 
 **Arman**
 1. "Orphans" of what? In one sentence: what makes CA2, the fasciola cinereum and the indusium griseum a family, and what makes them orphans?
