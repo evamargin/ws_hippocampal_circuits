@@ -3,7 +3,7 @@
 ## Schedule
 
 - Weekly, 2h
-- Wed from 15:15 to 17:15
+- Wed from 15:15 to 17:00, hard stop
 - Format: in person B01.051 or online
 
 **WS**
@@ -15,19 +15,19 @@
 ##  Proposed format for a small group
 
 - **Before each class:**
-	- We split a review into sections and distribute among us
+	- The core review is split into sections, one per person. See `Sections distribution.md`.
+	- The additional paper is optional. Eva summarises it in class in 8 minutes.
 - **At home:**
-	- We go through a full review
-	- But with more attention to the sections we got assigned
-	- Come with some questions you come up with while reading your sections
-		- If you have questions to other sections - even better! Note them and bring for the discussion
+	- Read the whole core review, your section with more care.
+	- Two sets of questions in `Sections distribution.md`: a curiosity guide for everyone, three questions on your section for you. Bring answers, not slides.
+	- Questions about other sections are welcome. Note them, bring them.
 - **In the class:**
-	- Framing: I will give general overview.
-	- Walk-through by sections: one person explains the section in their own words, from the paper, no slides needed. Key ideas, key figures, key equations.
-	- Then you can bring the question you got while reading at home so we could discuss
-	- Others also encouraged to be proactive, asking questions, providing opinions
+	- Framing, 10 min: Eva gives the map and why this paper.
+	- One slot per section: 8 min, the presenter explains in their own words from the paper, uninterrupted. Then 4 min of questions and discussion. Key ideas, key figures.
+	- A timekeeper, rotating weekly, keeps the slots. We stop at 17:00. What is not covered opens the next class.
+	- Eva's summary of the additional paper, 8 min.
+	- Closing round, 10 min: one question from the curiosity guide, one sentence each.
 	- **It s normal if we dont understand all details! We want to learn sth from these reviews, not everything :)**
-	- Would be nice to collect ideas and thoughts after each session in some sort of google doc. 
 
 ## Proposed list
 ### Block 0: Framing
