@@ -19,7 +19,7 @@
 	- The additional paper is optional. Eva might summarise it in class.
 - **At home:**
 	- Read the whole core review, your section with more care.
-	- Two sets of questions in `Sections distribution.md`: a curiosity guide for everyone, three questions on your section for you. Bring answers, not slides.
+	- In `Sections distribution.md`: curiosity questions for everyone, and what to explain from your section. Prepare to teach it to the others: background, context, summary. Bring an explanation, not slides.
 	- Questions about other sections are welcome.
 - **In the class:**
 	- Framing, 10 min: Eva gives the map and why this paper.

@@ -1,3 +1,96 @@
+## Wk 4
+
+**Homework:**
+- Everyone reads Palacios-Filardo & Mellor 2019, *Neuromodulation of hippocampal long-term synaptic plasticity*, Curr Opin Neurobiol 54:37–43
+	- Page numbers below are PDF pages.
+- Lisman & Grace 2005, *The hippocampal–VTA loop*, is optional
+
+**Curiosity questions**: (no need to prepare answers, just to frame you)
+
+1. Before reading: what decides which events become memories? After reading: what does the paper say decides?
+2. The signal often arrives after the event it should mark. How can that work at all?
+3. Fig. 1 shows four systems reaching the hippocampus. If all four help plasticity, why would a brain keep four?
+4. You probably learned dopamine = VTA, noradrenaline = locus coeruleus. Did this paper change that for you?
+5. Think of a day you remember vividly. Was something unexpected in it? Does "uncertainty" explain why it stuck?
+
+| Slot | Who          | Section                          | Pages | Figures              |
+| ---- | ------------ | -------------------------------- | ----- | -------------------- |
+| 0    | **Eva**      | Framing; Lisman & Grace in 8 min | 1     | —                    |
+| 1    | **Arman**    | Introduction                     | 1–2   | Fig. 1, Fig. 2 panel titles |
+| 2    | **Emma**     | Acetylcholine                    | 1–3   | Fig. 2, Induction    |
+| 3    | **Nandini**  | Noradrenaline                    | 3     | Fig. 2               |
+| 4    | **Sotiris**  | Dopamine                         | 3–4   | Fig. 2, Maintenance  |
+| 5    | **Stefanie** | Serotonin                        | 4     | Fig. 1, 5-HT fibres  |
+| 6    | **Pablo**    | Similarity and divergence        | 4–5   | Fig. 2               |
+
+**What to explain.** You teach your section to the room in 8 minutes: give the background people need, put it in context, summarise at the end. No need to add anything beyond the paper. The aim is that everyone gets it.
+
+**Arman**
+
+Background to deliver: what LTP and LTD are; what an NMDA receptor does in LTP; what induction, expression and maintenance mean (Fig. 2, panel titles).
+
+Explain:
+1. Explain why not every event becomes a memory, and how the paper uses the mismatch between predicted and observed outcome to define what is salient.
+2. Explain, using Fig. 1, where each of the four neuromodulators comes from and how it reaches the hippocampus.
+3. Explain why it is a problem for a synapse that neuromodulators are often released after the event.
+
+Leave us with: one sentence on what neuromodulators do in the formation of memories, according to this paper.
+
+**Emma**
+
+Background to deliver: nicotinic vs muscarinic receptors; why closing potassium channels makes NMDA receptors more active.
+
+Explain:
+1. Explain, using the Induction panel of Fig. 2, the four routes by which acetylcholine facilitates LTP (potassium channels, direct action on NMDA receptors, astrocytes, interneurons). Mention the exception: M1 can also depress NMDA receptors.
+2. Explain why the effect of acetylcholine on inhibition is hard to predict: what goes up, what goes down.
+3. Explain why the paper links acetylcholine mainly to induction, and why it becomes critical when LTP is induced with stimulation that resembles natural activity.
+
+Leave us with: one sentence on what acetylcholine does for plasticity.
+
+**Nandini**
+
+Background to deliver: what the locus coeruleus is; what a G-protein coupled receptor does.
+
+Explain:
+1. Explain when noradrenaline is released and why that makes it a candidate signal for updating memory.
+2. Explain, using Fig. 2, how it helps plasticity: potassium channels and NMDA receptors, AMPA receptor insertion, protein synthesis. Say why protein synthesis is the slow route.
+3. Explain the controversy in the last paragraph, so that someone new sees why it matters.
+
+Leave us with: one sentence on what noradrenaline does for plasticity, and what is in doubt.
+
+**Sotiris**
+
+Background to deliver: what the VTA is; D1-like vs D2-like receptors and what each does to cAMP.
+
+Explain:
+1. Explain why the source of hippocampal dopamine is in doubt: the classic VTA story, and what the LC adds.
+2. Explain how D1 receptors can lower overall excitability and still facilitate LTP and LTD.
+3. Explain, using the Maintenance panel of Fig. 2, how dopamine can act after the event and still change the right synapses, and why this timing fits behavioural learning.
+
+Leave us with: one sentence on why dopamine's timing matters.
+
+**Stefanie**
+
+Background to deliver: where the median raphe is; where CA1 and the mossy fibre–CA3 synapse sit in the wk 2 loop.
+
+Explain:
+1. Explain what serotonin does beyond mood, according to the paper, and when it is released.
+2. Explain, using Fig. 1, where the serotonergic fibres come from and how they spread through the hippocampus.
+3. Explain the opposite effects in CA1 and at mossy fibre–CA3 synapses, and why they show that serotonin's action depends on the cell type.
+
+Leave us with: one sentence on what serotonin does for plasticity, and where it does the opposite.
+
+**Pablo**
+
+Background to deliver: expected vs unexpected uncertainty in plain words, with one everyday example (ref. 1 helps).
+
+Explain:
+1. Explain the three shared mechanisms: SK channels, interneuron reconfiguration, astrocytes. Point to each on Fig. 2.
+2. Explain the three differences: interneuron details, regions and synapses, timescale.
+3. Explain how the paper connects timescale to uncertainty: acetylcholine and serotonin on one side, dopamine and noradrenaline on the other. Say which question the paper leaves open.
+
+Leave us with: the claim of the whole paper in one sentence.
+
 ## Wk 3
 
 **Homework:** 
