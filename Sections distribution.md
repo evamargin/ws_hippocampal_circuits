@@ -1,3 +1,97 @@
+## Wk 5
+
+**Homework:**
+- Everyone reads Buzsáki, Anastassiou & Koch 2012, *The origin of extracellular fields and currents — EEG, ECoG, LFP and spikes*, Nat Rev Neurosci 13:407–420
+	- Read Box 1 and the glossary boxes in the margins first. They explain the recording methods and define the key terms.
+	- Sections below are the paper's own headings.
+
+**Curiosity questions**: (no need to prepare answers, just to frame you)
+
+1. Before reading: what do you think an LFP electrode measures? After reading: what does it measure?
+2. A spike is the largest current a neuron makes. Why did people long think spikes barely show up in the LFP?
+3. The cerebellum has neatly aligned cells, yet its LFP is small. What else does a large LFP need?
+4. An electrode records a rhythm. How can you tell whether it was generated near the electrode or far away?
+5. Neurons make the LFP. Can the LFP in turn change what neurons do, or is it only a by-product, like the heartbeat on an ECG? Which way does the paper lean?
+
+| Slot | Who          | Section                                                                                     | Figures             |
+| ---- | ------------ | ------------------------------------------------------------------------------------------- | ------------------- |
+| 0    | **Eva**      | Framing: Introduction                                                                       | —                   |
+| 1    | **Nandini**  | Box 1: Recording methods of extracellular events                                            | Fig. 1              |
+| 2    | **Emma**     | Contributors to extracellular fields: opening, synaptic activity, fast action potentials, calcium spikes | Fig. 2              |
+| 3    | **Sotiris**  | Contributors, continued: intrinsic currents and resonances, AHPs and down states, gap junctions and glia, ephaptic effects | Fig. 3              |
+| 4    | **Arman**    | Neuronal geometry and architecture; The role of volume conduction (skip the equations)      | Fig. 2a, glossary   |
+| 5    | **Pablo**    | Temporal scaling properties; The inverse problem of LFP                                     | Fig. 4              |
+| 6    | **Stefanie** | Spike contribution to the LFP                                                               | Fig. 5              |
+| 7    | **Eva**      | Conclusions and future directions, 8 min                                                    | Fig. 6              |
+
+**What to explain.** You teach your section to the room in 8 minutes: give the background people need, put it in context, summarise at the end. No need to add anything beyond the paper. The aim is that everyone gets it.
+
+**Nandini**
+
+Background to deliver: what an extracellular potential is: the sum of the currents of many cells, measured outside the cells against a reference (Introduction, first paragraph); where each electrode sits: scalp, brain surface, inside the brain.
+
+Explain:
+1. Explain what EEG, ECoG and LFP have in common, and what changes between them: where the electrode sits, and how much tissue lies between the electrode and the neurons.
+2. Explain, using Fig. 1a, why the signals in the depth (LFP) and surface (ECoG) recordings are larger and show more fast activity than the scalp EEG.
+3. Explain what MEG measures instead of voltage and one advantage the box gives for it. Then explain how voltage-sensitive dye imaging differs from all the others: it measures the voltage across the cell membrane, not outside the cell.
+
+Leave us with: one sentence on what an LFP is.
+
+**Emma**
+
+Background to deliver: sink, source and return current (glossary); why the cell has to balance every inward current with an outward one (electroneutrality).
+
+Explain:
+1. Explain, using Fig. 2a, how an excitatory synapse on the distal dendrite makes a sink there and a source near the soma, and why that pair is a dipole. Say why a dipole fades faster with distance than a single source.
+2. Explain why GABA_A inhibition was assumed to add little to the field, and why it does add a lot in a cell that is spiking (Fig. 2b–c: where is the largest positive response?).
+3. Explain why spikes, the strongest currents, were thought not to matter for the LFP (Fig. 2d), and why Ca²⁺ spikes are hard to tell apart from EPSPs.
+
+Leave us with: one sentence on what makes a current visible in the LFP.
+
+**Sotiris**
+
+Background to deliver: I_h and I_T currents and resonance (glossary); up and down states during sleep.
+
+Explain:
+1. Explain resonance: which cells prefer theta, which prefer gamma, and why resonance shows in the LFP only when nearby cells do it together (Fig. 3A).
+2. Explain, using Fig. 3D–E, why a down state (delta wave) is a non-synaptic event: who is silent, and how silencing a few CA1 cells with light produces a positive LFP.
+3. Explain ephaptic coupling: why one spike is too weak to affect neighbouring cells, why a synchronous population is not, and the paper's question whether the LFP has a function or is only a by-product.
+
+Leave us with: one sentence on what, besides synapses, makes the LFP.
+
+**Arman**
+
+Background to deliver: open vs closed field (glossary); the shape of a pyramidal cell, apical dendrite up, soma in one layer (wk 2).
+
+Explain:
+1. Explain why pyramidal cells make open fields and thalamocortical cells closed ones, and why many pyramidal cells lying in parallel make the cortical LFP large.
+2. Explain why the LFP gets smaller from mouse to rat to cat to primate, and what folding of the cortex does to it.
+3. Explain volume conduction: what it is, the hemispherectomy example, and why two distant electrodes can show correlated signals although the circuits under them do not interact. Say what the paper requires before calling a signal local.
+
+Leave us with: one sentence on why the shape and arrangement of cells matter for the LFP.
+
+**Pablo**
+
+Background to deliver: the point-source equation V_e = I/4πσr and superposition (volume conduction section, second paragraph); forward vs inverse problem.
+
+Explain:
+1. Explain why the cerebellum shows that order is not enough, and the two causes of 1/f scaling: low-pass filtering by dendrites and recruitment of neurons over time. Say why short time windows (tens to hundreds of ms) do not follow the 1/f rule.
+2. Explain current source density (CSD) with three electrodes, using Fig. 4a–b: why the second spatial derivative is small for a distant source and large for a local one, and why the CSD stays local while V_e spreads.
+3. Explain why CSD alone cannot tell active inhibition from a passive return current, and how stimulating a known input helps identify the sinks and sources of a spontaneous event (Fig. 4c–d: evoked response vs sharp waves). Say why a large LFP can come with no spiking at all.
+
+Leave us with: one sentence on what CSD tells you that the LFP does not, and what it still cannot.
+
+**Stefanie**
+
+Background to deliver: what a power spectrum shows (slow vs fast components); what an afterhyperpolarization (AHP) is.
+
+Explain:
+1. Explain why a spike contributes more than the spike itself: what the AHP adds, and at which frequencies.
+2. Explain, using Fig. 5, what happens to power when units fire more and more together (5a), and what removing spikes from the LFP does (5b).
+3. Explain why the paper calls spike "contamination" of the LFP good news: what high-frequency power lets you estimate.
+
+Leave us with: one sentence on what high-frequency LFP tells you about neurons.
+
 ## Wk 4
 
 **Homework:**
