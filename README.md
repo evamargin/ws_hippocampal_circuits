@@ -61,14 +61,14 @@
 | Wk  | Date   | Topic | Core | Additional |
 | --- | ------ | ----- | ---- | ---------- |
 | 9 | 16.12 | Manifolds and attractors | Langdon, Genkin & Engel 2023, A unifying perspective on neural manifolds and circuits for cognition, Nat Rev Neurosci (add) 10.1038/s41583-023-00693-x | Khona & Fiete 2022, Attractor and integrator networks in the brain, Nat Rev Neurosci (lib) 10.1038/s41583-022-00642-0 |
-| 10 | 07.01 | Path integration and head direction | McNaughton et al. 2006, Path integration and the neural basis of the 'cognitive map', Nat Rev Neurosci (lib) 10.1038/nrn1932 | Hulse & Jayaraman 2020, Mechanisms underlying the neural computation of head direction, Annu Rev Neurosci (lib) 10.1146/annurev-neuro-072116-031516 |
-| 11 | 14.01 | Remapping as inference | Fenton 2024, Remapping revisited, Nat Rev Neurosci (lib) 10.1038/s41583-024-00817-x | Sanders, Wilson & Gershman 2020, Hippocampal remapping as hidden state inference, eLife (add) 10.7554/eLife.51140 |
+| 10 | 07.01 | Remapping as inference | Fenton 2024, Remapping revisited, Nat Rev Neurosci (lib) 10.1038/s41583-024-00817-x | Sanders, Wilson & Gershman 2020, Hippocampal remapping as hidden state inference, eLife (add) 10.7554/eLife.51140 |
 
-### Block 5: Back to circuits
+### Block 5: Cell types and codes
 | Wk  | Date   | Topic | Core | Additional |
 | --- | ------ | ----- | ---- | ---------- |
-| 12 | 21.01 | Hippocampal subfields: DG/CA3/CA1, pattern separation vs completion | Knierim & Neunuebel 2016, Tracking the flow of hippocampal computation, Neurobiol Learn Mem (add) 10.1016/j.nlm.2015.10.008 | O'Keefe & Krupic 2021, Do hippocampal pyramidal cells respond to nonspatial stimuli?, Physiol Rev (lib) 10.1152/physrev.00014.2020 |
-| 13 | 28.01 | Entorhinal cortex beyond grid cells (LEC/MEC, objects, borders, speed) | Knierim, Neunuebel & Deshmukh 2014, Functional correlates of the lateral and medial entorhinal cortex, Phil Trans R Soc B (lib) 10.1098/rstb.2013.0369 | Ginosar et al. 2023, Are grid cells used for navigation?, Neuron (lib) 10.1016/j.neuron.2023.03.027 |
+| 11 | 14.01 | Hippocampal subfields: DG/CA3/CA1, pattern separation vs completion | Knierim & Neunuebel 2016, Tracking the flow of hippocampal computation, Neurobiol Learn Mem (add) 10.1016/j.nlm.2015.10.008 | O'Keefe & Krupic 2021, Do hippocampal pyramidal cells respond to nonspatial stimuli?, Physiol Rev (lib) 10.1152/physrev.00014.2020 |
+| 12 | 21.01 | Entorhinal cortex beyond grid cells (LEC/MEC, objects, borders, speed) | Knierim, Neunuebel & Deshmukh 2014, Functional correlates of the lateral and medial entorhinal cortex, Phil Trans R Soc B (lib) 10.1098/rstb.2013.0369 | Ginosar et al. 2023, Are grid cells used for navigation?, Neuron (lib) 10.1016/j.neuron.2023.03.027 |
+| 13 | 28.01 | Path integration and head direction | McNaughton et al. 2006, Path integration and the neural basis of the 'cognitive map', Nat Rev Neurosci (lib) 10.1038/nrn1932 | Hulse & Jayaraman 2020, Mechanisms underlying the neural computation of head direction, Annu Rev Neurosci (lib) 10.1146/annurev-neuro-072116-031516 |
 
 ### Consolidation
 | Wk  | Date   | Topic |
